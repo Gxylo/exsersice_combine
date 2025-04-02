@@ -1,0 +1,6 @@
+framework module Pods_RickandMortyApi_Exercise {
+  umbrella header "Pods-RickandMortyApi_Exercise-umbrella.h"
+
+  export *
+  module * { export * }
+}

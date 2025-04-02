@@ -1,0 +1,16 @@
+PODS:
+  - moa (12.0.0)
+
+DEPENDENCIES:
+  - moa (~> 12.0)
+
+SPEC REPOS:
+  trunk:
+    - moa
+
+SPEC CHECKSUMS:
+  moa: e2346f12de6c65bbca4d103950d45db9e46785ef
+
+PODFILE CHECKSUM: 7590704259a14675d0b7891db90ea2815e9bf349
+
+COCOAPODS: 1.11.3
